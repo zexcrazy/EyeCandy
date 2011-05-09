@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest android:hasCode="false" android:versionCode="13" android:versionName="1.7.2 anim" android:installLocation="internalOnly" package="com.zexcrazy.theme.eyecandy"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9" />
+    <application android:label="@string/theme_name" android:icon="@drawable/icon">
+        <activity android:label="@string/theme_name" android:name="com.tmobile.theme.Foo" />
+    </application>
+    <theme pluto:themeId="EyeCandy" pluto:styleId="@style/EyeCandy" pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:wallpaperImage="\@drawable/wallpaper" pluto:styleName="@string/style_appearance_name" pluto:ringtoneName="Shocking" pluto:ringtoneFileName="media/audio/ringtones/Shocking.mp3" pluto:notificationRingtoneName="Teleport" pluto:notificationRingtoneFileName="media/audio/notifications/Teleport.mp3" />
+</manifest>

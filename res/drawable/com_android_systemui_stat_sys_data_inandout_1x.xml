@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim0" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim1" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim2" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim3" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim4" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim5" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim6" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim7" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim8" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim9" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim10" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim11" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim12" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim13" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim14" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim15" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim16" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim17" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim18" />
+    <item android:duration="50" android:drawable="@drawable/com_android_systemui_stat_sys_data_inandout_1x_anim19" />
+</animation-list>

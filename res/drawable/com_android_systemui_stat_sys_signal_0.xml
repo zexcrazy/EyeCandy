@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="500" android:drawable="@drawable/com_android_systemui_stat_sys_signal_0_anim0" />
+</animation-list>

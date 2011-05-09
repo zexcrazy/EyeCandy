@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100" android:drawable="@drawable/com_android_systemui_stat_sys_signal_2_anim1" />
+    <item android:duration="100" android:drawable="@drawable/com_android_systemui_stat_sys_signal_2_anim2" />
+    <item android:duration="100" android:drawable="@drawable/com_android_systemui_stat_sys_signal_2_anim3" />
+    <item android:duration="100" android:drawable="@drawable/com_android_systemui_stat_sys_signal_2_anim4" />
+    <item android:duration="100" android:drawable="@drawable/com_android_systemui_stat_sys_signal_2_anim5" />
+</animation-list>

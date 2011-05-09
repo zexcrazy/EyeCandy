@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="color_primary_focus">#ff12bdd0</color>
+    <color name="color_primary_press">#ff80d6de</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_dark">#ff000000</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_dark_inverse">#ff000000</color>
+    <color name="dim_foreground_dark">#ffbebebe</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#ff323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="dim_foreground_light">#ff323232</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="hint_foreground_light">#ff808080</color>
+    <color name="lighter_gray">#ffdddddd</color>
+    <color name="darker_gray">#ffaaaaaa</color>
+    <color name="perms_dangerous_grp_color">#ff80d6de</color>
+    <color name="perms_dangerous_perm_color">#ff12bdd0</color>
+    <color name="shadow">#cc222222</color>
+    <color name="launcher_glow_pressed">#ff80d6de</color>
+    <color name="launcher_glow_focused">#ff12bdd0</color>
+	<color name="latinkeyboard_key_text_color">#FF77e01a</color>
+	<color name="latinkeyboard_key_color_white">#FF77e01a</color>
+    <color name="latinkeyboard_key_color_black">#FF000000</color>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms0" />
+    <item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms1" />
+    <item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms2" />
+    <item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms3" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms4" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms5" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms6" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms7" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms8" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms9" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms8" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms7" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms6" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms5" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms4" />
+	<item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms3" />
+    <item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms2" />
+    <item android:duration="170" android:drawable="@drawable/frameworks_res_stat_notify_sms1" />
+</animation-list>

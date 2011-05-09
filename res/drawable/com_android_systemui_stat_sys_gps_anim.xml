@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="250" android:drawable="@drawable/com_android_systemui_stat_sys_gps_acquiring0" />
+    <item android:duration="250" android:drawable="@drawable/com_android_systemui_stat_sys_gps_acquiring1" />
+    <item android:duration="250" android:drawable="@drawable/com_android_systemui_stat_sys_gps_acquiring2" />
+    <item android:duration="250" android:drawable="@drawable/com_android_systemui_stat_sys_gps_acquiring3" />
+    <item android:duration="250" android:drawable="@drawable/com_android_systemui_stat_sys_gps_acquiring2" />
+    <item android:duration="250" android:drawable="@drawable/com_android_systemui_stat_sys_gps_acquiring1" />
+</animation-list>
